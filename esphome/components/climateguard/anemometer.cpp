@@ -17,10 +17,10 @@ static const uint8_t CG_ANEM_STATUS = 0x6;
 static const uint8_t CG_ANEM_WIND_H = 0x7;
 static const uint8_t CG_ANEM_WIND_L = 0x8;
 
-static const uint8_t CG_ANEM_TEST_COLD_H = 0x09;
-static const uint8_t CG_ANEM_TEST_COLD_L = 0x0A;
-static const uint8_t CG_ANEM_TEST_HOT_H = 0x0B;
-static const uint8_t CG_ANEM_TEST_HOT_L = 0x0C;
+static const uint8_t CG_ANEM_ADC_COLD_H = 0x09;
+static const uint8_t CG_ANEM_ADC_COLD_L = 0x0A;
+static const uint8_t CG_ANEM_ADC_HOT_H = 0x0B;
+static const uint8_t CG_ANEM_ADC_HOT_L = 0x0C;
 static const uint8_t CG_ANEM_SUPPLY_V = 0x0D;
 static const uint8_t CG_ANEM_PWR_WT = 0x0E;
 
